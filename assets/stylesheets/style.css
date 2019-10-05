@@ -1,0 +1,39 @@
+body{
+  color: #707070;
+  overflow-x: hidden;
+}
+
+.container {
+  margin-left: 60px;
+}
+
+.btn-outline-success {
+  color: #3ebcb3;
+  border-color: #3ebcb3;
+}
+
+.btn-outline-success:hover {
+  background: #3ebcb3;
+}
+
+.fab {
+  font-size: 35px;
+  color: #969696;
+}
+
+.fa {
+  font-size: 32px;
+}
+
+.footer {
+  margin-top: 64px;
+}
+
+a{
+  color: #707070;
+}
+
+.card:hover{
+  border-width:0;
+  box-shadow: 0px 0px 16px #D0CDE1;
+}
